@@ -1,9 +1,19 @@
+# Backend Instructions
 
+This repository contains multiple backend tasks. Use the instructions below to run each task.
 
+---
 
-Backend 
-to run task1 
-   pakage.json
-      "dev":"nodemon task1.js"
-then 
- run the command "npm run dev"
+## Running Tasks
+
+Each task uses `nodemon` via the `dev` script in `package.json`. Update the `dev` script to point to the task you want to run:
+
+```json
+// For Task 1
+"dev": "nodemon task1.js"
+
+// For Task 2
+"dev": "nodemon task2.js"
+
+// For Task 3
+"dev": "nodemon task3.js"
