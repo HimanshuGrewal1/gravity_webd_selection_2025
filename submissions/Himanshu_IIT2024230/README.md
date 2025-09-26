@@ -17,3 +17,11 @@ Each task uses `nodemon` via the `dev` script in `package.json`. Update the `dev
 
 // For Task 3
 "dev": "nodemon task3.js"
+
+```
+# Deployment
+
+## Frontend 
+   Task3 : https://gravity-webd-selection-2025.vercel.app/
+
+## Backend 
